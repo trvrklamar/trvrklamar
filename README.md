@@ -63,4 +63,3 @@ I blend **front-end design** with **AI concepts** to build modern, data-driven e
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=trvrklamar&label=Visitors&color=0e75b6&style=flat)
 
-🖤 Built with passion by **[@trvrklamar](https://github.com/trvrklamar)** • Inspired by [OnCloud125252](https://github.com/OnCloud125252)
