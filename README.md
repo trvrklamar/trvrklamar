@@ -10,6 +10,8 @@
 
 ✦ Computer Science student
 
+✦ Aspiring to be a Fullstack Dev
+
 ✦ Currently learning **Python**
 
 ✦ You can reach me trevorklamar@gmail.com
