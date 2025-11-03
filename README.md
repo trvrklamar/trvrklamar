@@ -10,7 +10,7 @@
 
 ✦ Computer Science student
 
-✦ Aspiring to be a Fullstack Dev
+✦ Aspiring to be a Frontend Dev
 
 ✦ Currently learning **Python**
 
