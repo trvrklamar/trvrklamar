@@ -1,10 +1,4 @@
-<!--
-  🧠 Dark-Themed Developer Dashboard Profile README
-  Author: Klamar (@trvrklamar)
-  Inspired by OnCloud125252’s layout
--->
-
-[![Typing SVG – Lato](https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=00FFFF&width=450&lines=Web+Developer;AI+Enthusiast;UX%2FUI+Designer;Learner)](https://github.com/trvrklamar)
+[![Typing SVG – Lato](https://readme-typing-svg.demolab.com?font=Lato&pause=1000&color=CC001E&width=450&lines=Web+Developer;AI+Enthusiast;UX%2FUI+Designer;Learner)](https://github.com/trvrklamar)
 
 
 
