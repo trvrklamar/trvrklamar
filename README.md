@@ -6,8 +6,6 @@
 
 ✦ Aspiring to be a Frontend Dev
 
-✦ Currently learning **Python**
-
 ✦ You can reach me trevorklamar@gmail.com
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=trvrklamar&label=Visitors&color=272030&style=flat)
